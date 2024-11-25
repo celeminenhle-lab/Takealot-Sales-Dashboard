@@ -1,4 +1,6 @@
 # Takealot-Sales-Dashboard
+![takealo](https://github.com/user-attachments/assets/47b749f2-0a7c-4559-baf1-a4ca93955771)
+
 Objective and Business Problem
 
 Gathering and Loading Data:import and load data into Power BI from various sources, ensuring your Dashboard is based on accurate and relevant data.
